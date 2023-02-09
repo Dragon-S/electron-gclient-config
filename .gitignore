@@ -1,0 +1,5 @@
+.cipd
+.gclient_entries
+.gclient_previous_sync_commits
+depot_tools
+src
