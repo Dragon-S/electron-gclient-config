@@ -1,10 +1,10 @@
 solutions = [
   { "name"        : "src/electron",
-    "url"         : "https://github.com/Dragon-S/electron.git@45d933fceb713ed302e2b416faa66b085b8a036b",
+    "url"         : "https://github.com/Dragon-S/electron.git@3dd15aec62dfff5f7cc9c0c5d17a72358a8d63b5",
     "deps_file"   : "DEPS",
     "managed"     : False,
     "custom_deps" : {
-      "src/third_party/webrtc": "https://github.com/Dragon-S/google-webrtc.git@b3f11abe4089298435f1a0035e1c62378f55f4a6",
+      "src/third_party/webrtc": "https://github.com/Dragon-S/google-webrtc.git@d74d1529df5abc0c13ad4d56b0056837b1ba4b61",
     },
     "custom_vars": {},
   },
