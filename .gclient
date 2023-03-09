@@ -4,7 +4,7 @@ solutions = [
     "deps_file"   : "DEPS",
     "managed"     : False,
     "custom_deps" : {
-      "src/third_party/webrtc": "https://github.com/Dragon-S/google-webrtc.git@b0c7a6bc9d363aa05e0181e91502f9aa51f316fd",
+      "src/third_party/webrtc": "https://github.com/Dragon-S/google-webrtc.git@150ad5188f16aca1f32758fa28afabc498f955c5",
     },
     "custom_vars": {},
   },
