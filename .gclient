@@ -1,6 +1,6 @@
 solutions = [
   { "name"        : "src/electron",
-    "url"         : "https://github.com/Dragon-S/electron.git@b4bb2521ab102f6ca041dff6093aa3a667dd53ec",
+    "url"         : "https://github.com/Dragon-S/electron.git@b92295e2e84d29637714ef2250babe6f108ca1d5",
     "deps_file"   : "DEPS",
     "managed"     : False,
     "custom_deps" : {
